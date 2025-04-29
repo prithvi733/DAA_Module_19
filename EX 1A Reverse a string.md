@@ -30,7 +30,8 @@ print(reverse(reverseme))
 
 ## Output:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/0e63fe8f-97e4-4e1c-aa03-cabb323eea8d)
+
 
 
 ## Result:
